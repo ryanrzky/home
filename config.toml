@@ -77,11 +77,11 @@ Ini adalah situs pribadi saya yang berisi tulisan, opini, dan dokumentasi untuk 
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/adityatelange/hugo-PaperMod"
+  url = "https://github.com/ryanrzky"
 
   [[params.socialIcons]]
   name = "KoFi"
-  url = "https://ko-fi.com/adityatelange"
+  url = "#"
 
   [[params.socialIcons]]
   name = "Rss"
