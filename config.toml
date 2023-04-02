@@ -80,10 +80,6 @@ Ini adalah situs pribadi saya yang berisi tulisan, opini, dan dokumentasi untuk 
   url = "https://github.com/ryanrzky"
 
   [[params.socialIcons]]
-  name = "KoFi"
-  url = "#"
-
-  [[params.socialIcons]]
   name = "Rss"
   url = "index.xml"
 
