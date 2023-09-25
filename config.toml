@@ -72,7 +72,7 @@ images = [ "papermod-cover.png" ]
   [params.homeInfoParams]
   Title = "Hi, saya Ryan 👋"
   Content = """
-Ini adalah situs pribadi saya yang berisi tulisan, opini, dan dokumentasi untuk saya ketika sedang belajar.
+Cuma Ketikan.
 """
 
   [[params.socialIcons]]
